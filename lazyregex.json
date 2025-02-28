@@ -20,7 +20,7 @@
     },
     "shortcuts": [
         [
-            "venv\\Scripts\\python.exe -m lazyregex.cli",
+            "venv\\Scripts\\python.exe lazyregex\\cli.py",
             "lazyregex"
         ]
     ]
